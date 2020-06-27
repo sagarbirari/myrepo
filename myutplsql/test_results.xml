@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="WINDOWS-1252"?>
-<testExecutions version="1">
-<file path="tests\test_pkg.pkb">
-<testCase name="test_add" duration="478" >
-</testCase>
-<testCase name="test_odd" duration="75" >
-</testCase>
-</file>
-</testExecutions>
